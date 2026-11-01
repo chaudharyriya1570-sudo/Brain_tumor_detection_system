@@ -42,11 +42,11 @@ This project aims to automate the analysis of MRI images using a trained deep le
 - HTML
 - CSS
 - JavaScript
-- Flask *(if used in the application)*
+- Flask
 
 ### Development Tools
 
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook
 - VS Code
 - Git & GitHub
 
